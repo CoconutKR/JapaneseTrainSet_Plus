@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------------
 자기부상 공통객차
 --------------------------------------------------------------------*/
-item (FEAT_TRAINS, JTS_MAGV_Passenger_Car, 1051){
+item (FEAT_TRAINS, JTS_MAGV_Passenger_Car, 1050){
     property {
         name:                           string(STR_JTS_Magv_PASS_NAME);
         climates_available:             ALL_CLIMATES;

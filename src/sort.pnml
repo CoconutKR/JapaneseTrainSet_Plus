@@ -2,20 +2,20 @@
 정렬
 --------------------------------------------------------------------*/
 sort(FEAT_TRAINS, [
-    Shinkansen_0,              //1052
-    Shinkansen_500,            //1053
-    Shinkansen_800,            //1054
-    Shinkansen_N700,           //1055
-    Shinkansen_923,            //1056
-    Shinkansen_E5_H5,          //1057
-    Shinkansen_E6,             //1058
-    Shinkansen_E7_W7,          //1059
-    Shinkansen_E8,             //1060
+    Shinkansen_0,              //1051
+    Shinkansen_500,            //1052
+    Shinkansen_800,            //1053
+    Shinkansen_N700,           //1054
+    Shinkansen_923,            //1055
+    Shinkansen_E5_H5,          //1056
+    Shinkansen_E6,             //1057
+    Shinkansen_E7_W7,          //1058
+    Shinkansen_E8,             //1059
 
-    Shinkansen_L0,             //1061
+    Shinkansen_L0,             //1060
     
-    JTS_1F_Passenger_Car,      //1049
-    JTS_2F_Passenger_Car,      //1050
+    JTS_1F_Passenger_Car,      //1048
+    JTS_2F_Passenger_Car,      //1049
     
-    JTS_MAGV_Passenger_Car,        //1051
+    JTS_MAGV_Passenger_Car,        //1050
     ]);

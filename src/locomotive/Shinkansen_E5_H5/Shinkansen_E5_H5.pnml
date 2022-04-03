@@ -10,7 +10,7 @@
 /*--------------------------------------------------------------------
 열차정보
 --------------------------------------------------------------------*/
-item(FEAT_TRAINS, Shinkansen_E5_H5, 1057){
+item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
     property {
         name:                           string(STR_Shinkansen_E5_H5_NAME);
         climates_available:             ALL_CLIMATES;

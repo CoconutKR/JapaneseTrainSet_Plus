@@ -10,7 +10,7 @@
 /*--------------------------------------------------------------------
 열차정보
 --------------------------------------------------------------------*/
-item(FEAT_TRAINS, Shinkansen_N700, 1055){
+item(FEAT_TRAINS, Shinkansen_N700, 1054){
     property {
         name:                           string(STR_Shinkansen_N700_NAME);
         climates_available:             ALL_CLIMATES;
