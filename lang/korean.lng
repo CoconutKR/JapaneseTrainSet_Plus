@@ -26,6 +26,8 @@ STR_JTS_2F_PASS_NAME                                :[JTS+] 2층 공통 객차
 # Parameters
 STR_PARAM_High_SPEED_Train_NAME                     :고속열차 속도변수
 STR_PARAM_High_SPEED_Train_DESC                     :고속열차의 속도를 조정합니다. (기본:331km/h)
+STR_PARAM_Japanese_Track_NAME                       :일본 열차 세트 선로 호환변수
+STR_PARAM_Japanese_Track_DESC                       :열차가 등장할 선로를 선택합니다.
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
 STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}열차 실존여부 : {BLUE}실제 {}{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능

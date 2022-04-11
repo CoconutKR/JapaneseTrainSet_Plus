@@ -11,3 +11,18 @@ param {
             def_value: 330;
             }
     }
+
+param {
+	Japanese_Track {
+	    type: int;
+	    name: string(STR_PARAM_Japanese_Track_NAME);
+	    desc: string(STR_PARAM_Japanese_Track_DESC);
+            min_value: 0;
+	    max_value: 1;
+	    def_value: 0;
+	    names: {
+            0:  string(ELRL);
+	    1:	string(ELRL);
+	    };
+	}
+}

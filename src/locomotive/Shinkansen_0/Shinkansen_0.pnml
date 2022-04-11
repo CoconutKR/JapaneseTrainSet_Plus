@@ -15,7 +15,7 @@ item(FEAT_TRAINS, Shinkansen_0, 1051){
         name:                           string(STR_Shinkansen_0_NAME);
         climates_available:             ALL_CLIMATES;
         introduction_date:              date(1964, 1, 1);
-        track_type:                     ELRL;
+        track_type:                     Japanese_Track;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
