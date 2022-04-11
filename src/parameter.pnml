@@ -21,8 +21,8 @@ param {
 	    max_value: 1;
 	    def_value: 0;
 	    names: {
-            0:  string(ELRL);
-	    1:	string(ELRL);
+            0:  string(STR_PARAM_Japanese_Track_Japan);
+	        1:	string(STR_PARAM_Japanese_Track_World);
 	    };
 	}
 }

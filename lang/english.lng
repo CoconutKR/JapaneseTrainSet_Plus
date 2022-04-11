@@ -30,6 +30,8 @@ STR_PARAM_High_SPEED_Train_NAME                     :High Speed Train Speed
 STR_PARAM_High_SPEED_Train_DESC                     :Adjust the speed of the high-speed train (Default:331km/h)
 STR_PARAM_Japanese_Track_NAME                       :Japan Train Set Track enable
 STR_PARAM_Japanese_Track_DESC                       :Select Track.
+STR_PARAM_Japanese_Track_Japan                      :Select Japan Train Set Track.
+STR_PARAM_Japanese_Track_World                      :Select Default Track.
 
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
 STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
