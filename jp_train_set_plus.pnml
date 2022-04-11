@@ -38,7 +38,7 @@ cargotable {
 
 // Railtypetable
 railtypetable {
-    RAIL, ELRL, MGLV}
+    RAIL, ELRL, MGLV, SAEE, SBEE}
 
 // Load templates
 #include "src/template_list.pnml"
