@@ -6,11 +6,11 @@ sort(FEAT_TRAINS, [
     Shinkansen_500,            //1052
     Shinkansen_800,            //1053
     Shinkansen_N700,           //1054
-    Shinkansen_923,            //1055
     Shinkansen_E5_H5,          //1056
     Shinkansen_E6,             //1057
     Shinkansen_E7_W7,          //1058
     Shinkansen_E8,             //1059
+    Shinkansen_923,            //1055
 
     Shinkansen_L0,             //1060
     
