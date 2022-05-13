@@ -21,9 +21,8 @@ STR_Shinkansen_N700_NAME                            :[JTS+] Shinkansen N700
 STR_Shinkansen_L0_NAME                              :[JTS+] Shinkansen L0
 
 # wagon's name
-STR_JTS_1F_PASS_NAME                                :[JTS+] 1F Passenger Car
-STR_JTS_Magv_PASS_NAME                              :[JTS+] maglev Passenger Car
-STR_JTS_2F_PASS_NAME                                :[JTS+] 2F Passenger Car
+STR_JTS_PASS_NAME                                   :[JTS+] Passenger Car
+STR_JTS_Magv_PASS_NAME                              :[JTS+] Maglev Passenger Car
 
 # Parameters
 STR_PARAM_High_SPEED_Train_NAME                     :High Speed Train Speed
@@ -48,9 +47,8 @@ STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
-STR_REFIT_train_configuration_1F                    :{BLACK}train configuration: {GREEN}1F passenger vehicles
+STR_REFIT_train_configuration                       :{BLACK}train configuration: {GREEN}Passenger vehicles
 STR_REFIT_train_configuration_Magv                  :{BLACK}train configuration: {GREEN}maglev passenger vehicles
-STR_REFIT_train_configuration_2F                    :{BLACK}train configuration: {GREEN}2F passenger vehicles
 
 # Liveries
 STR_REFIT_LIVERY_Shinkansen_0                       :(Original Livery)

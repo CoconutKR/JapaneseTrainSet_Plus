@@ -19,9 +19,8 @@ STR_Shinkansen_N700_NAME                            :[JTS+] 신칸센 N700계
 STR_Shinkansen_L0_NAME                              :[JTS+] 신칸센 L0계
 
 # wagon's name
-STR_JTS_1F_PASS_NAME                                :[JTS+] 1층 공통 객차
-STR_JTS_Magv_PASS_NAME                              :[JTS+] 자기부상 객차
-STR_JTS_2F_PASS_NAME                                :[JTS+] 2층 공통 객차
+STR_JTS_PASS_NAME                                   :[JTS+] 승객 수송 차량
+STR_JTS_Magv_PASS_NAME                              :[JTS+] 자기부상 승객 수송 차량
 
 # Parameters
 STR_PARAM_High_SPEED_Train_NAME                     :고속열차 속도변수
@@ -46,9 +45,8 @@ STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차: {RED}불가능
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
-STR_REFIT_train_configuration_1F                    :{BLACK}열차구성: {GREEN}1층 승객 차량용
+STR_REFIT_train_configuration                       :{BLACK}열차구성: {GREEN}승객 차량용
 STR_REFIT_train_configuration_Magv                  :{BLACK}열차구성: {GREEN}자기부상 승객 차량용
-STR_REFIT_train_configuration_2F                    :{BLACK}열차구성: {GREEN}2층 승객 차량용
 
 # Liveries locomotive
 STR_REFIT_LIVERY_Shinkansen_0                       :(오리지널)

@@ -14,8 +14,7 @@ sort(FEAT_TRAINS, [
 
     Shinkansen_L0,             //1060
     
-    JTS_1F_Passenger_Car,      //1048
-    JTS_2F_Passenger_Car,      //1049
+    JTS_Passenger_Car,      //1048
     
     JTS_MAGV_Passenger_Car,        //1050
     ]);
