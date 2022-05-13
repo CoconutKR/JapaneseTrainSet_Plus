@@ -34,18 +34,18 @@ STR_PARAM_Japanese_Track_Japan                      :Select Japan Train Set Trac
 STR_PARAM_Japanese_Track_World                      :Select Default Track.
 
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
-STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_500_Cool            :{BLACK}Existence of trains : {RED}Virtual Train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_500_KR              :{BLACK}Existence of trains : {RED}Virtual Train {}{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_800                 :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_923                 :{BLACK}Existence of trains : {YELLOW}Test Train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_E5_H5               :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}E6, E8
-STR_REFIT_ADDITIONAL_Shinkansen_E6                  :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
-STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_E8                  :{BLACK}Existence of trains : {PURPLE}Plan Train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
-STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Existence of trains : {BLUE}Real train {}{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
-STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Existence of trains : {PURPLE}Plan Train {}{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_500_Cool            :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_500_KR              :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_800                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_923                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_E5_H5               :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}E6, E8
+STR_REFIT_ADDITIONAL_Shinkansen_E6                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
+STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_E8                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
+STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_1F                    :{BLACK}train configuration: {GREEN}1F passenger vehicles
@@ -55,8 +55,6 @@ STR_REFIT_train_configuration_2F                    :{BLACK}train configuration:
 # Liveries
 STR_REFIT_LIVERY_Shinkansen_0                       :(Original Livery)
 STR_REFIT_LIVERY_Shinkansen_0_renewal               :(Renewal Livery)
-STR_REFIT_LIVERY_Shinkansen_500_Sancheon            :(Shinkansen 500-Sancheon)
-STR_REFIT_LIVERY_Shinkansen_500_Patjug              :(Shinkansen 500-Patjug)
 STR_REFIT_LIVERY_N700_Tokaido_Sanyo                 :(Tokaido-Sanyo Shinkansen)
 STR_REFIT_LIVERY_N700_Sanyo_Kyushu                  :(Sanyo-Kyushu Shinkansen)
 STR_REFIT_LIVERY_N700S_Nishikyushu                  :(Nishikyushu Shinkansen)
