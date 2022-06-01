@@ -11,6 +11,7 @@ STR_Shinkansen_0_NAME                               :[JTS+] 신칸센 0계
 STR_Shinkansen_500_NAME                             :[JTS+] 신칸센 500계
 STR_Shinkansen_800_NAME                             :[JTS+] 신칸센 800계
 STR_Shinkansen_923_NAME                             :[JTS+] 신칸센 923형
+STR_Shinkansen_E2_NAME                              :[JTS+] 신칸센 E2계
 STR_Shinkansen_E5_H5_NAME                           :[JTS+] 신칸센 E5·H5계 
 STR_Shinkansen_E6_NAME                              :[JTS+] 신칸센 E6계
 STR_Shinkansen_E7_W7_NAME                           :[JTS+] 신칸센 E7·W7계
@@ -35,6 +36,7 @@ STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_800                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_923                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
+STR_REFIT_ADDITIONAL_Shinkansen_E2                  :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_E5_H5               :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합가능열차{}{GREEN}E6, E8
 STR_REFIT_ADDITIONAL_Shinkansen_E6                  :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합가능열차{}{GREEN}E5, H5
 STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
@@ -52,6 +54,8 @@ STR_REFIT_LIVERY_Shinkansen_0_renewal               :(리뉴얼)
 STR_REFIT_LIVERY_N700_Tokaido_Sanyo                 :(도카이도-산요 신칸센)
 STR_REFIT_LIVERY_N700_Sanyo_Kyushu                  :(산요-큐슈 신칸센)
 STR_REFIT_LIVERY_N700S_Nishikyushu                  :(니시큐슈 신칸센)
+STR_REFIT_LIVERY_Shinkansen_E2_Pink                 :(E2계: 분홍)
+STR_REFIT_LIVERY_Shinkansen_E2_Red                  :(E2계: 적색)
 STR_REFIT_LIVERY_Shinkansen_E5                      :(신칸센 E5)
 STR_REFIT_LIVERY_Shinkansen_H5                      :(신칸센 H5)
 STR_REFIT_LIVERY_Nomal_wagon                        :(일반실)

@@ -11,6 +11,7 @@ STR_Shinkansen_0_NAME                               :[JTS+] Shinkansen 0
 STR_Shinkansen_500_NAME                             :[JTS+] Shinkansen 500
 STR_Shinkansen_800_NAME                             :[JTS+] Shinkansen 800
 STR_Shinkansen_923_NAME                             :[JTS+] Shinkansen 923
+STR_Shinkansen_E2_NAME                              :[JTS+] Shinkansen E2
 STR_Shinkansen_E5_H5_NAME                           :[JTS+] Shinkansen E5·H5
 STR_Shinkansen_E6_NAME                              :[JTS+] Shinkansen E6
 STR_Shinkansen_E7_W7_NAME                           :[JTS+] Shinkansen E7·W7
@@ -35,6 +36,7 @@ STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_800                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_923                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_E2                  :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_E5_H5               :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {GREEN}E6, E8
 STR_REFIT_ADDITIONAL_Shinkansen_E6                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
 STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
@@ -52,6 +54,8 @@ STR_REFIT_LIVERY_Shinkansen_0_renewal               :(Renewal Livery)
 STR_REFIT_LIVERY_N700_Tokaido_Sanyo                 :(Tokaido-Sanyo Shinkansen)
 STR_REFIT_LIVERY_N700_Sanyo_Kyushu                  :(Sanyo-Kyushu Shinkansen)
 STR_REFIT_LIVERY_N700S_Nishikyushu                  :(Nishikyushu Shinkansen)
+STR_REFIT_LIVERY_Shinkansen_E2_Pink                 :(Pink line Livery)
+STR_REFIT_LIVERY_Shinkansen_E2_Red                  :(Red line Livery)
 STR_REFIT_LIVERY_Shinkansen_E5                      :(Shinkansen E5)
 STR_REFIT_LIVERY_Shinkansen_H5                      :(Shinkansen H5)
 STR_REFIT_LIVERY_Nomal_wagon                        :(Nomal Car)
