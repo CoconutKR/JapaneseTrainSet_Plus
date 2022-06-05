@@ -11,8 +11,7 @@
 ``make clean``을 입력하면 모든 생성된 파일이 초기화됩니다.
 
 ## 자료제공
-본 일본 열차 세트+ 애드온는 YST에서 분리된 GRF로 일부 스프라이트는 YST에서 제작되었습니다.
-- [YST](https://github.com/evepoi/YST)
+본 일본 열차 세트+ 애드온는 YST에서 분리된 GRF로 일부 스프라이트는 [YST](https://github.com/evepoi/YST)에서 제작되었습니다.
 
 ## 저작권
 이 NewGRF는 크리에이티브 커먼스 라이선스 v3.0 (CC-BY-NC-SA v3.0)을 따릅니다. <br>
