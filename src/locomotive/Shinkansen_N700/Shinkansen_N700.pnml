@@ -21,9 +21,9 @@ item(FEAT_TRAINS, Shinkansen_N700, 1054){
         dual_headed:                    1;
         
         //spec
-        speed:                          362km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        speed:                          300km/h;
+        power:                          2135 kW;
+        weight:                         44 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -34,7 +34,7 @@ item(FEAT_TRAINS, Shinkansen_N700, 1054){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 75;
+        cargo_capacity:                 82;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -52,7 +52,6 @@ item(FEAT_TRAINS, Shinkansen_N700, 1054){
 	graphics {
         default:                        sw_Shinkansen_N700_engine;
         purchase:                       sw_Shinkansen_N700_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
@@ -65,8 +64,10 @@ item(FEAT_TRAINS, Shinkansen_N700, 1054){
     livery_override(JTS_Passenger_Car) {
         default:                        sw_Shinkansen_N700_wagon;
         cargo_subtype_text:             sw_N700_cargo_subtype_text;
-        cargo_capacity:                 100;
+        cargo_capacity:                 82;
         loading_speed:                  25;
         running_cost_factor:            100;
+        power:                          1431;
+        weight:                         44;
         }
         }

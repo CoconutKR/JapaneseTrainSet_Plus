@@ -21,9 +21,9 @@ item(FEAT_TRAINS, Shinkansen_0, 1051){
         dual_headed:                    1;
         
         //spec
-        speed:                          230km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        speed:                          220km/h;
+        power:                          1480 kW;
+        weight:                         60 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -34,7 +34,7 @@ item(FEAT_TRAINS, Shinkansen_0, 1051){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 75;
+        cargo_capacity:                 87;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -64,8 +64,10 @@ item(FEAT_TRAINS, Shinkansen_0, 1051){
     livery_override(JTS_Passenger_Car) {
         default:                        sw_Shinkansen_0_wagon;
         cargo_subtype_text:             sw_Shinkansen_0_cargo_subtype_text;
-        cargo_capacity:                 75;
+        cargo_capacity:                 87;
         loading_speed:                  25;
         running_cost_factor:            100;
+        power:                          993;
+        weight:                         60;
         }
         }
