@@ -17,6 +17,7 @@ STR_Shinkansen_E6_NAME                              :[JTS+] Shinkansen E6
 STR_Shinkansen_E7_W7_NAME                           :[JTS+] Shinkansen E7·W7
 STR_Shinkansen_E8_NAME                              :[JTS+] Shinkansen E8
 STR_Shinkansen_N700_NAME                            :[JTS+] Shinkansen N700
+STR_Shinkansen_N700S_NAME                           :[JTS+] Shinkansen N700S
 STR_Shinkansen_L0_NAME                              :[JTS+] Shinkansen L0
 
 # wagon's name
@@ -42,6 +43,7 @@ STR_REFIT_ADDITIONAL_Shinkansen_E6                  :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_E8                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
 STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Shinkansen_N700S               :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
@@ -53,17 +55,12 @@ STR_REFIT_LIVERY_Shinkansen_0                       :(Original Livery)
 STR_REFIT_LIVERY_Shinkansen_0_renewal               :(Renewal Livery)
 STR_REFIT_LIVERY_N700_Tokaido_Sanyo                 :(Tokaido-Sanyo Shinkansen)
 STR_REFIT_LIVERY_N700_Sanyo_Kyushu                  :(Sanyo-Kyushu Shinkansen)
+STR_REFIT_LIVERY_N700S_Tokaido_Sanyo                :(Tokaido-Sanyo Shinkansen)
 STR_REFIT_LIVERY_N700S_Nishikyushu                  :(Nishikyushu Shinkansen)
 STR_REFIT_LIVERY_Shinkansen_E2_Pink                 :(Pink line Livery)
 STR_REFIT_LIVERY_Shinkansen_E2_Red                  :(Red line Livery)
 STR_REFIT_LIVERY_Shinkansen_E5                      :(Shinkansen E5)
 STR_REFIT_LIVERY_Shinkansen_H5                      :(Shinkansen H5)
-STR_REFIT_LIVERY_Nomal_wagon                        :(Nomal Car)
-STR_REFIT_LIVERY_Green_wagon                        :(Green Car)
-STR_REFIT_LIVERY_E5_Nomal_wagon                     :(E5 Nomal Car)
-STR_REFIT_LIVERY_H5_Nomal_wagon                     :(H5 Nomal Car)
-STR_REFIT_LIVERY_E5_Green_wagon                     :(E5 Green Car)
-STR_REFIT_LIVERY_H5_Green_wagon                     :(H5 Green Car)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here

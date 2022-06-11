@@ -21,7 +21,7 @@ item(FEAT_TRAINS, Shinkansen_N700, 1054){
         dual_headed:                    1;
         
         //spec
-        speed:                          300km/h;
+        speed:                          330km/h;
         power:                          2135 kW;
         weight:                         44 ton;
         tractive_effort_coefficient:    0.3;

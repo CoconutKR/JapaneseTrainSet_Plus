@@ -6,6 +6,7 @@
 #include "locomotive/Shinkansen_500/Shinkansen_500.pnml"
 #include "locomotive/Shinkansen_800/Shinkansen_800.pnml"
 #include "locomotive/Shinkansen_N700/Shinkansen_N700.pnml"
+#include "locomotive/Shinkansen_N700_S/Shinkansen_N700_S.pnml"
 #include "locomotive/Shinkansen_E2/Shinkansen_E2.pnml"
 #include "locomotive/Shinkansen_E5_H5/Shinkansen_E5_H5.pnml"
 #include "locomotive/Shinkansen_E6/Shinkansen_E6.pnml"
