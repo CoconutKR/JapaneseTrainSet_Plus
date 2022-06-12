@@ -21,9 +21,9 @@ item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
         dual_headed:                    1;
         
         //spec
-        speed:                          362km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        speed:                          360km/h;
+        power:                          1920 kW;
+        weight:                         45 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -34,7 +34,7 @@ item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 38;
+        cargo_capacity:                 23;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -52,7 +52,6 @@ item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
     graphics {
         default:                        sw_Shinkansen_E5_H5_engine;
         purchase:                       sw_Shinkansen_E5_H5_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
@@ -68,5 +67,7 @@ item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
         cargo_capacity:                 sw_Shinkansen_E5_H5_wagon_capacity_in_custom;
         loading_speed:                  25;
         running_cost_factor:            100;
+        power:                          1287;
+        weight:                         45;
         }
         }

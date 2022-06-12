@@ -22,8 +22,8 @@ item(FEAT_TRAINS, Shinkansen_E2, 1110){
         
         //spec
         speed:                          315km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        power:                          1912 kW;
+        weight:                         44 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -67,5 +67,7 @@ item(FEAT_TRAINS, Shinkansen_E2, 1110){
         cargo_capacity:                 81;
         loading_speed:                  25;
         running_cost_factor:            150;
+        power:                          1287;
+        weight:                         44;
         }
         }
