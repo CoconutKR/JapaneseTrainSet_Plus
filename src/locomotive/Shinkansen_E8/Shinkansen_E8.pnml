@@ -21,9 +21,9 @@ item(FEAT_TRAINS, Shinkansen_E8, 1059){
         dual_headed:                    1;
         
         //spec
-        speed:                          362km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        speed:                          300km/h;
+        power:                          1714 kW;
+        weight:                         43 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -34,7 +34,7 @@ item(FEAT_TRAINS, Shinkansen_E8, 1059){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 20;
+        cargo_capacity:                 50;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -52,7 +52,6 @@ item(FEAT_TRAINS, Shinkansen_E8, 1059){
     graphics {
         default:                        sw_Shinkansen_E8_engine;
         purchase:                       sw_Shinkansen_E8_purchase;
-        speed:                          High_Speed_Train;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
@@ -63,8 +62,10 @@ item(FEAT_TRAINS, Shinkansen_E8, 1059){
         
     livery_override(JTS_Passenger_Car) {
         default:                        sw_Shinkansen_E8_wagon;
-        cargo_capacity:                 100;
+        cargo_capacity:                 50;
         loading_speed:                  25;
         running_cost_factor:            100;
+        power:                          1149;
+        weight:                         43;
         }
         }

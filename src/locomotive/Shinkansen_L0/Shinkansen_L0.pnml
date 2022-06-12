@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_L0, 1060){
     property {
         name:                           string(STR_Shinkansen_L0_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2025, 1, 1);
+        introduction_date:              date(2027, 1, 1);
         track_type:                     MGLV;
         engine_class:                   ENGINE_CLASS_MAGLEV;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          600km/h;
+        speed:                          550km/h;
         power:                          10000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;

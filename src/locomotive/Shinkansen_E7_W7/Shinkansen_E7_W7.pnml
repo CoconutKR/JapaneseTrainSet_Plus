@@ -21,9 +21,9 @@ item(FEAT_TRAINS, Shinkansen_E7_W7, 1058){
         dual_headed:                    1;
         
         //spec
-        speed:                          285km/h;
-        power:                          8000 kW;
-        weight:                         40 ton;
+        speed:                          275km/h;
+        power:                          2000 kW;
+        weight:                         45 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -65,5 +65,7 @@ item(FEAT_TRAINS, Shinkansen_E7_W7, 1058){
         cargo_capacity:                 sw_Shinkansen_E7_W7_wagon_capacity_in_custom;
         loading_speed:                  25;
         running_cost_factor:            150;
+        power:                          1341;
+        weight:                         45;
         }
         }
