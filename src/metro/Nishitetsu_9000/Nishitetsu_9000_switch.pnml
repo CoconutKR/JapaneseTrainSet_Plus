@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------------
+스위치
+--------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engineH, cargo_subtype) {
+    1: set_Nishitetsu_9000_engineH;
+    set_Nishitetsu_9000_engineH;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engineT, cargo_subtype) {
+    1: set_Nishitetsu_9000_engineT;
+    set_Nishitetsu_9000_engineT;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engine, position_in_consist_from_end == 0 && num_vehs_in_consist > 1){
+    1: sw_Nishitetsu_9000_engineT;
+    sw_Nishitetsu_9000_engineH;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_wagon, cargo_subtype) {
+    1: set_Nishitetsu_9000_wagon;
+    set_Nishitetsu_9000_wagon;
+}
+
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_wagon_attach, vehicle_type_id) {
+    JTS_Passenger_Car:   return CB_RESULT_ATTACH_ALLOW;
+    Nishitetsu_9000:     return CB_RESULT_ATTACH_ALLOW;
+}
