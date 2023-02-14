@@ -1,24 +1,29 @@
 /*--------------------------------------------------------------------
 스위치
 --------------------------------------------------------------------*/
-switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engineH, cargo_subtype) {
-    1: set_Nishitetsu_9000_engineH;
-    set_Nishitetsu_9000_engineH;
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_3Car_engine, position_in_consist_from_end == 0 && num_vehs_in_consist > 1){
+    1: set_Nishitetsu_9000_3car_engineT;
+    set_Nishitetsu_9000_3car_engineH;
 }
 
-switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engineT, cargo_subtype) {
-    1: set_Nishitetsu_9000_engineT;
-    set_Nishitetsu_9000_engineT;
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_2Car_engine, position_in_consist_from_end == 0 && num_vehs_in_consist > 1){
+    1: set_Nishitetsu_9000_2car_engineT;
+    set_Nishitetsu_9000_2car_engineH;
 }
 
-switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engine, position_in_consist_from_end == 0 && num_vehs_in_consist > 1){
-    1: sw_Nishitetsu_9000_engineT;
-    sw_Nishitetsu_9000_engineH;
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_6car_engine, (position_in_consist) % 6) {
+    1: set_Nishitetsu_9000_3car_engineH;
+    3: set_Nishitetsu_9000_3car_engineT;
+    4: set_Nishitetsu_9000_3car_engineH;
+    6: set_Nishitetsu_9000_3car_engineT;
+    sw_Nishitetsu_9000_3Car_engine;
 }
 
-switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_wagon, cargo_subtype) {
-    1: set_Nishitetsu_9000_wagon;
-    set_Nishitetsu_9000_wagon;
+switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_engine, num_vehs_in_consist) {
+    2: sw_Nishitetsu_9000_2Car_engine;
+    3: sw_Nishitetsu_9000_3Car_engine;
+    6: sw_Nishitetsu_9000_6car_engine;
+    sw_Nishitetsu_9000_2Car_engine;
 }
 
 switch(FEAT_TRAINS, SELF, sw_Nishitetsu_9000_wagon_attach, vehicle_type_id) {

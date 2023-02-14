@@ -8,20 +8,28 @@ spriteset(set_Nishitetsu_9000_purchase, "src/metro/Nishitetsu_9000/Nishitetsu_90
 /*--------------------------------------------------------------------
 1. 니시테츠 9000형
 --------------------------------------------------------------------*/
-spriteset(set_Nishitetsu_9000H_purchase, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
+spriteset(set_Nishitetsu_9000H_2car_purchase, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
     tmpl_purchase_for_dualhead(0, 108)
 }
 
-spriteset(set_Nishitetsu_9000_engineH, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
+spriteset(set_Nishitetsu_9000_3car_engineH, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
     engine(80, 0)
 }
 
-spriteset(set_Nishitetsu_9000_wagon, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png") {
+spriteset(set_Nishitetsu_9000_3car_wagon, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png") {
     wagon_1F(80, 27)
 }
 
-spriteset(set_Nishitetsu_9000_engineT, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
+spriteset(set_Nishitetsu_9000_3car_engineT, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
     engine_r(80, 54)
+}
+
+spriteset(set_Nishitetsu_9000_2car_engineH, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
+    engine(80, 81)
+}
+
+spriteset(set_Nishitetsu_9000_2car_engineT, "src/metro/Nishitetsu_9000/Nishitetsu_9000.png"){
+    engine_r(80, 108)
 }
 
 /*--------------------------------------------------------------------

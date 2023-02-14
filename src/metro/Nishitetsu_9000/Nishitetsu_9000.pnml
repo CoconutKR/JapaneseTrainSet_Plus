@@ -60,7 +60,7 @@ item(FEAT_TRAINS, Nishitetsu_9000, 1116){
         }
 
     livery_override(JTS_Passenger_Car) {
-        default:                        sw_Nishitetsu_9000_wagon;
+        default:                        set_Nishitetsu_9000_3car_wagon;
         cargo_capacity:                 80;
         loading_speed:                  25;
         running_cost_factor:            100;
