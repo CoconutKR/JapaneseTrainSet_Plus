@@ -2,19 +2,19 @@
 니시테츠 9000형
 --------------------------------------------------------------------*/
 // Graphics
-#include "Nishitetsu_9000_graphic.pnml"
+#include "Nishitetsu_3000_graphic.pnml"
 
 // Switch
-#include "Nishitetsu_9000_switch.pnml"
+#include "Nishitetsu_3000_switch.pnml"
 
 /*--------------------------------------------------------------------
 열차정보
 --------------------------------------------------------------------*/
-item(FEAT_TRAINS, Nishitetsu_9000, 1116){
+item(FEAT_TRAINS, Nishitetsu_3000, 1141){
     property {
-        name:                           string(STR_Nishitetsu_9000_NAME);
+        name:                           string(STR_Nishitetsu_3000_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2016, 1, 1);
+        introduction_date:              date(2005, 1, 1);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
@@ -22,8 +22,8 @@ item(FEAT_TRAINS, Nishitetsu_9000, 1116){
         
         //spec
         speed:                          110km/h;
-        power:                          2000 kW;
-        weight:                         20 ton;
+        power:                          1225 kW;
+        weight:                         28 ton;
         tractive_effort_coefficient:    0.3;
         air_drag_coefficient:           0.01;
         
@@ -34,7 +34,7 @@ item(FEAT_TRAINS, Nishitetsu_9000, 1116){
         reliability_decay:              0;
         
         //Cargo
-        cargo_capacity:                 80;
+        cargo_capacity:                 118;
         refittable_cargo_classes:       NO_CARGO_CLASS;
         non_refittable_cargo_classes:   NO_CARGO_CLASS;
         cargo_allow_refit:              [PASS];
@@ -50,18 +50,18 @@ item(FEAT_TRAINS, Nishitetsu_9000, 1116){
         }
 
 	graphics {
-        default:                        sw_Nishitetsu_9000_engine;
-        purchase:                       sw_Nishitetsu_9000_purchase;
+        default:                        sw_Nishitetsu_3000_engine;
+        purchase:                       sw_Nishitetsu_3000_purchase;
         loading_speed:                  25;
         cost_factor:                    10;
         running_cost_factor:            150;
-        can_attach_wagon:               sw_Nishitetsu_9000_wagon_attach;
-        additional_text:                string(STR_REFIT_ADDITIONAL_Nishitetsu_9000);
+        can_attach_wagon:               sw_Nishitetsu_3000_wagon_attach;
+        additional_text:                string(STR_REFIT_ADDITIONAL_Nishitetsu_3000);
         }
 
     livery_override(JTS_Passenger_Car) {
-        default:                        sw_Nishitetsu_9000_wagon;
-        cargo_capacity:                 80;
+        default:                        sw_Nishitetsu_3000_wagon;
+        cargo_capacity:                 131;
         loading_speed:                  25;
         running_cost_factor:            100;
         }

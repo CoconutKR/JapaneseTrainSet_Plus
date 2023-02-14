@@ -17,6 +17,7 @@ sort(FEAT_TRAINS, [
 
     Nishitetsu_1000,           //1139
     Nishitetsu_2000,           //1140
+    Nishitetsu_3000,           //1141
     Nishitetsu_9000,           //1116
 
     Shinkansen_L0,             //1060

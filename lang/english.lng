@@ -21,6 +21,7 @@ STR_Shinkansen_N700_NAME                            :[JTS+] Shinkansen N700
 STR_Shinkansen_N700S_NAME                           :[JTS+] Shinkansen N700S
 STR_Nishitetsu_1000_NAME                            :[JTS+] Nishitetsu 1000
 STR_Nishitetsu_2000_NAME                            :[JTS+] Nishitetsu 2000
+STR_Nishitetsu_3000_NAME                            :[JTS+] Nishitetsu 3000
 STR_Nishitetsu_9000_NAME                            :[JTS+] Nishitetsu 9000
 STR_Shinkansen_L0_NAME                              :[JTS+] Shinkansen L0
 
@@ -51,6 +52,7 @@ STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Shinkansen_N700S               :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Nishitetsu_1000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 1000
 STR_REFIT_ADDITIONAL_Nishitetsu_2000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 2000
+STR_REFIT_ADDITIONAL_Nishitetsu_3000                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}Nishitetsu 3000
 STR_REFIT_ADDITIONAL_Nishitetsu_9000                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}Nishitetsu 9000
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
