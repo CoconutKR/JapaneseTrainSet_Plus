@@ -14,8 +14,10 @@
 #include "locomotive/Shinkansen_E7_W7/Shinkansen_E7_W7.pnml"
 #include "locomotive/Shinkansen_E8/Shinkansen_E8.pnml"
 #include "locomotive/Shinkansen_923/Shinkansen_923.pnml"
-#include "metro/Nishitetsu_9000/Nishitetsu_9000.pnml"
 #include "locomotive/Shinkansen_L0/Shinkansen_L0.pnml"
+
+//Metro
+#include "metro/Nishitetsu/9000_series/Nishitetsu_9000.pnml"
 
 // Sorting
 #include "sort.pnml"
