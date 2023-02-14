@@ -17,6 +17,7 @@
 #include "locomotive/Shinkansen_L0/Shinkansen_L0.pnml"
 
 //Metro
+#include "metro/Nishitetsu/1000_series/Nishitetsu_1000.pnml"
 #include "metro/Nishitetsu/9000_series/Nishitetsu_9000.pnml"
 
 // Sorting

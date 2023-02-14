@@ -19,6 +19,7 @@ STR_Shinkansen_E7_W7_NAME                           :[JTS+] Shinkansen E7·W7
 STR_Shinkansen_E8_NAME                              :[JTS+] Shinkansen E8
 STR_Shinkansen_N700_NAME                            :[JTS+] Shinkansen N700
 STR_Shinkansen_N700S_NAME                           :[JTS+] Shinkansen N700S
+STR_Nishitetsu_1000_NAME                            :[JTS+] Nishitetsu 1000
 STR_Nishitetsu_9000_NAME                            :[JTS+] Nishitetsu 9000
 STR_Shinkansen_L0_NAME                              :[JTS+] Shinkansen L0
 
@@ -47,6 +48,7 @@ STR_REFIT_ADDITIONAL_Shinkansen_E7                  :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Shinkansen_E8                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}E5, H5
 STR_REFIT_ADDITIONAL_Shinkansen_N700                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_N700S               :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_Nishitetsu_1000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 1000
 STR_REFIT_ADDITIONAL_Nishitetsu_9000                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}Nishitetsu 9000
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
@@ -67,6 +69,11 @@ STR_REFIT_LIVERY_Shinkansen_E2_Pink                 :(Pink line Livery)
 STR_REFIT_LIVERY_Shinkansen_E2_Red                  :(Red line Livery)
 STR_REFIT_LIVERY_Shinkansen_E5                      :(Shinkansen E5)
 STR_REFIT_LIVERY_Shinkansen_H5                      :(Shinkansen H5)
+STR_REFIT_LIVERY_Nishitetsu_1000_Normal             :(Nishitetsu 1000 series Normal)
+STR_REFIT_LIVERY_Nishitetsu_1000_Normal_Aircon      :(Nishitetsu 1000 series Normal Aircon)
+STR_REFIT_LIVERY_Nishitetsu_1000_Original           :(Nishitetsu 1000 series Original)
+STR_REFIT_LIVERY_Nishitetsu_1000_Express            :(Nishitetsu 1000 series Express)
+STR_REFIT_LIVERY_Nishitetsu_1000_Last_Run           :(Nishitetsu 1000 series Last Run)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here
