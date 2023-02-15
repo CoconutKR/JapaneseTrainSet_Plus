@@ -32,8 +32,8 @@ switch(FEAT_TRAINS, SELF, sw_Nishitetsu_5000_4car_wagon, cargo_subtype) {
 }
 
 switch(FEAT_TRAINS, SELF, sw_Nishitetsu_5000_wagon, [STORE_TEMP(1, 0x10F), var[0x61, 0, 0x0000FFFF, 0xC6]]) {
-    Nishitetsu_5000: sw_Nishitetsu_5000_4car_wagon;
-    sw_Nishitetsu_5000_panto_wagon;
+    Nishitetsu_5000: sw_Nishitetsu_5000_panto_wagon;
+    sw_Nishitetsu_5000_4car_wagon;
 }
 
 switch(FEAT_TRAINS, SELF, sw_Nishitetsu_5000_wagon_attach, vehicle_type_id) {
