@@ -22,6 +22,7 @@
 #include "metro/Nishitetsu/2000_series/Nishitetsu_2000.pnml"
 #include "metro/Nishitetsu/3000_series/Nishitetsu_3000.pnml"
 #include "metro/Nishitetsu/5000_series/Nishitetsu_5000.pnml"
+#include "metro/Nishitetsu/6000_series/Nishitetsu_6000.pnml"
 #include "metro/Nishitetsu/9000_series/Nishitetsu_9000.pnml"
 
 // Sorting

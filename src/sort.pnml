@@ -20,11 +20,12 @@ sort(FEAT_TRAINS, [
     Nishitetsu_2000,           //1140
     Nishitetsu_3000,           //1141
     Nishitetsu_5000,           //1144
+    Nishitetsu_6000,           //1145
     Nishitetsu_9000,           //1116
 
     Shinkansen_L0,             //1060
     
-    JTS_Passenger_Car,      //1048
+    JTS_Passenger_Car,         //1048
     
-    JTS_MAGV_Passenger_Car,        //1050
+    JTS_MAGV_Passenger_Car,    //1050
     ]);
