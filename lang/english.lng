@@ -25,6 +25,7 @@ STR_Nishitetsu_2000_NAME                            :[JTS+] Nishitetsu 2000
 STR_Nishitetsu_3000_NAME                            :[JTS+] Nishitetsu 3000
 STR_Nishitetsu_5000_NAME                            :[JTS+] Nishitetsu 5000
 STR_Nishitetsu_6000_NAME                            :[JTS+] Nishitetsu 6000
+STR_Nishitetsu_7000_NAME                            :[JTS+] Nishitetsu 7000
 STR_Nishitetsu_9000_NAME                            :[JTS+] Nishitetsu 9000
 STR_Shinkansen_L0_NAME                              :[JTS+] Shinkansen L0
 
@@ -59,6 +60,7 @@ STR_REFIT_ADDITIONAL_Nishitetsu_2000                :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_Nishitetsu_3000                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}Nishitetsu 3000
 STR_REFIT_ADDITIONAL_Nishitetsu_5000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 5000
 STR_REFIT_ADDITIONAL_Nishitetsu_6000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 6000, Nishitetsu 7000
+STR_REFIT_ADDITIONAL_Nishitetsu_7000                :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}Nishitetsu 6000, Nishitetsu 7000
 STR_REFIT_ADDITIONAL_Nishitetsu_9000                :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {GREEN}Nishitetsu 9000
 STR_REFIT_ADDITIONAL_Shinkansen_L0                  :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
@@ -90,6 +92,8 @@ STR_REFIT_LIVERY_Nishitetsu_5000_MG                 :(Nishitetsu 5000 series MG)
 STR_REFIT_LIVERY_Nishitetsu_5000_SIV                :(Nishitetsu 5000 series SIV)
 STR_REFIT_LIVERY_Nishitetsu_6000                    :(Nishitetsu 6000)
 STR_REFIT_LIVERY_Nishitetsu_6050                    :(Nishitetsu 6050)
+STR_REFIT_LIVERY_Nishitetsu_7000                    :(Nishitetsu 7000)
+STR_REFIT_LIVERY_Nishitetsu_7050                    :(Nishitetsu 7050)
 
 # Errors
 STR_ERROR_NO_ATTACH                                 :You can't attach this car here
