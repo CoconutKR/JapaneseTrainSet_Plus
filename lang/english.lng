@@ -7,6 +7,7 @@ STR_GRF_DESC                                     :{BLACK}The Japan Train Set+ ad
 STR_GRF_URL                                      :https://github.com/GBLINER/JapaneseTrainSet_Plus
 
 # locomotive's name
+STR_Kse2_NAME                                       :[JTS+] Keisei AE series
 STR_Shinkansen_0_NAME                               :[JTS+] Shinkansen 0
 STR_Shinkansen_500_NAME                             :[JTS+] Shinkansen 500
 STR_Shinkansen_700_NAME                             :[JTS+] Shinkansen 700
@@ -38,6 +39,7 @@ STR_PARAM_Japanese_Track_Japan                      :Select Japan Train Set Trac
 STR_PARAM_Japanese_Track_World                      :Select Default Track.
 
 # Refit (Additional text) Real Trian(BLUE), Test Train(YELLOW), Plan Train(PURPLE), Virtual Train(RED)
+STR_REFIT_ADDITIONAL_Kse2                           :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_Shinkansen_700                 :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {RED}Unavailable

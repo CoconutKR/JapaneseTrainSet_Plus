@@ -2,6 +2,7 @@
 정렬
 --------------------------------------------------------------------*/
 sort(FEAT_TRAINS, [
+    Keisei_AE_series,          //1142
     Shinkansen_0,              //1051
     Shinkansen_500,            //1052
     Shinkansen_700,            //1115

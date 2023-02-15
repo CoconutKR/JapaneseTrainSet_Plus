@@ -7,6 +7,7 @@ STR_GRF_DESC                                     :{BLACK}일본 열차 세트+ �
 STR_GRF_URL                                      :https://github.com/GBLINER/JapaneseTrainSet_Plus
 
 # locomotive's name
+STR_Kse2_NAME                                       :[JTS+] 케이세이 AE형 2세대
 STR_Shinkansen_0_NAME                               :[JTS+] 신칸센 0계
 STR_Shinkansen_500_NAME                             :[JTS+] 신칸센 500계
 STR_Shinkansen_700_NAME                             :[JTS+] 신칸센 700계
@@ -38,6 +39,7 @@ STR_PARAM_Japanese_Track_Japan                      :일본 열차 세트 선로
 STR_PARAM_Japanese_Track_World                      :기본 전기 선로를 선택합니다.
 
 # Refit (Additional text) 실제(BLUE), 시험(YELLOW), 계획 (PURPLE), 가상 (RED)
+STR_REFIT_ADDITIONAL_Kse2                           :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_0                   :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_500                 :{BLACK}도색/모델 변경: {RED}불가능 {}{BLACK}복합열차구성 : {RED}불가능
 STR_REFIT_ADDITIONAL_Shinkansen_700                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{BLACK}복합열차구성 : {RED}불가능
