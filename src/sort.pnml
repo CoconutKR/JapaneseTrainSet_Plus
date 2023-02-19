@@ -2,7 +2,6 @@
 정렬
 --------------------------------------------------------------------*/
 sort(FEAT_TRAINS, [
-    Keisei_AE_series,          //1142
     Shinkansen_0,              //1051
     Shinkansen_500,            //1052
     Shinkansen_700,            //1115
@@ -16,6 +15,7 @@ sort(FEAT_TRAINS, [
     Shinkansen_E8,             //1059
     Shinkansen_923,            //1055
 
+    Keisei_AE_series,          //1142
     Nishitetsu_1000,           //1139
     Nishitetsu_2000,           //1140
     Nishitetsu_3000,           //1141
