@@ -22,7 +22,7 @@ item(FEAT_TRAINS, Shinkansen_923, 1055){
         
         //spec
         speed:                          270km/h;
-        power:                          10000 kW;
+        power:                          6000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;
         
