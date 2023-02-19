@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------
-5.13. E5
+신칸센 E5 H5 전동차 / Shinkansen E5 H5 Series
 --------------------------------------------------------------------*/
 // Graphics
 #include "Shinkansen_E5_H5_graphic.pnml"
@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_E5_H5, 1056){
     property {
         name:                           string(STR_Shinkansen_E5_H5_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2011, 1, 1);
+        introduction_date:              date(2011, 3, 5);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          360km/h;
+        speed:                          320km/h;
         power:                          1920 kW;
         weight:                         45 ton;
         tractive_effort_coefficient:    0.3;
