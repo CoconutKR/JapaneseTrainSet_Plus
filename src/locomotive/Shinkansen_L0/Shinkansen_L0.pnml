@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------
-VTX
+신칸센 L0계 리니어 모터카 / Shinkansen L0 Series
 --------------------------------------------------------------------*/
 // Graphics
 #include "Shinkansen_L0_graphic.pnml"
@@ -21,7 +21,7 @@ item(FEAT_TRAINS, Shinkansen_L0, 1060){
         dual_headed:                    1;
         
         //spec
-        speed:                          550km/h;
+        speed:                          500km/h;
         power:                          10000 kW;
         weight:                         40 ton;
         tractive_effort_coefficient:    0.3;
