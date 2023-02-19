@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_E2, 1110){
     property {
         name:                           string(STR_Shinkansen_E2_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(1997, 1, 1);
+        introduction_date:              date(1997, 3, 22);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          315km/h;
+        speed:                          275km/h;
         power:                          1912 kW;
         weight:                         44 ton;
         tractive_effort_coefficient:    0.3;
@@ -29,7 +29,7 @@ item(FEAT_TRAINS, Shinkansen_E2, 1110){
         
         //Model
         model_life:                     VEHICLE_NEVER_EXPIRES;
-        vehicle_life:                   30;
+        vehicle_life:                   25;
         retire_early:                   0;
         reliability_decay:              0;
         
