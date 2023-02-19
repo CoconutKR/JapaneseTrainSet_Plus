@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------
-신칸센 500계
+신칸센 500계 전동차 / Shinkansen 500 Series
 --------------------------------------------------------------------*/
 // Graphics
 #include "Shinkansen_500_graphic.pnml"
@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_500, 1052){
     property {
         name:                           string(STR_Shinkansen_500_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(1996, 1, 1);
+        introduction_date:              date(1997, 3, 22);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          320km/h;
+        speed:                          300km/h;
         power:                          2280 kW;
         weight:                         39 ton;
         tractive_effort_coefficient:    0.3;
