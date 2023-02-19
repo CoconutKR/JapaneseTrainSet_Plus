@@ -21,7 +21,7 @@ item(FEAT_TRAINS, Shinkansen_0, 1051){
         dual_headed:                    1;
         
         //spec
-        speed:                          230km/h;
+        speed:                          220km/h;
         power:                          1480 kW;
         weight:                         60 ton;
         tractive_effort_coefficient:    0.3;
