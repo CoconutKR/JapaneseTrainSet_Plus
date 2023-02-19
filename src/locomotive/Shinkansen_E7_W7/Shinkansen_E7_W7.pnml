@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------
-E7
+신칸센 E7/W7계 전동차 / Shinkansen E7/W7 Series
 --------------------------------------------------------------------*/
 // Graphics
 #include "Shinkansen_E7_W7_graphic.pnml"
@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_E7_W7, 1058){
     property {
         name:                           string(STR_Shinkansen_E7_W7_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2014, 1, 1);
+        introduction_date:              date(2014, 3, 15);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          275km/h;
+        speed:                          260km/h;
         power:                          2000 kW;
         weight:                         45 ton;
         tractive_effort_coefficient:    0.3;
