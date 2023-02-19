@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------
-E6
+신칸센 E6계 전동차 / Shinkansen E6 Series
 --------------------------------------------------------------------*/
 // Graphics
 #include "Shinkansen_E6_graphic.pnml"
@@ -14,14 +14,14 @@ item(FEAT_TRAINS, Shinkansen_E6, 1057){
     property {
         name:                           string(STR_Shinkansen_E6_NAME);
         climates_available:             ALL_CLIMATES;
-        introduction_date:              date(2013, 1, 1);
+        introduction_date:              date(2013, 3, 16);
         track_type:                     ELRL;
         engine_class:                   ENGINE_CLASS_ELECTRIC;
         sprite_id:                      SPRITE_ID_NEW_TRAIN;
         dual_headed:                    1;
         
         //spec
-        speed:                          360km/h;
+        speed:                          320km/h;
         power:                          1714 kW;
         weight:                         43 ton;
         tractive_effort_coefficient:    0.3;
