@@ -1,4 +1,4 @@
-# Japanese Train Set+ Addon 일본 열차 세트+ 애드온
+# Japanese Train Set+ Addon
 **일본 열차 세트+ 애드온**은 일본의 신칸센이나 여러 특급, 통근형 전동차를 추가해 주는 OpenTTD NewGRF입니다.  
 게임 내 온라인 콘텐츠에서 다운로드하거나, [Github release 페이지](https://github.com/GBLINER/JapaneseTrainSet_Plus/releases)에서 다운로드할 수 있습니다.
 
