@@ -2,8 +2,8 @@
 
 
 # GRF name and description
-STR_GRF_NAME_WITH_VER                            :Japanese Train Set+ {VERSION}
-STR_GRF_DESC                                     :{BLACK}The Japan Train Set+ add-on adds the Japanese Shinkansen and several trains. {}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: GBLINER
+STR_GRF_NAME_WITH_VER                            :Japanese Train Set+ Addon 1.4.0
+STR_GRF_DESC                                     :{BLACK}The Japan Train Set+ add-on adds the Japanese Shinkansen and several trains. {}(Updated: {RECENT_UPDATED}){}{SILVER}+ Author: Coconut
 STR_GRF_URL                                      :https://github.com/GBLINER/JapaneseTrainSet_Plus
 
 # locomotive's name
