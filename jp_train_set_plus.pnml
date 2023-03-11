@@ -6,7 +6,7 @@ grf {
 	name :                             string(STR_GRF_NAME_WITH_VER);
 	desc :                             string(STR_GRF_DESC);
 	url :                              string(STR_GRF_URL);
-	version :                          20230214;
+	version :                          20230311;
 	min_compatible_version :           3;
     
 	// Parameters 매개변수
